@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9d95e21-2ea7-4622-9d96-2769d6ad073a": {
+      "ProjectGuid": "f9d95e21-2ea7-4622-9d96-2769d6ad073a",
+      "DisplayName": "DaysCounter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
